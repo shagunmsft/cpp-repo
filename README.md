@@ -13,7 +13,7 @@ Currently I implemented following functions & algorithms:
 * Automatic differentiation with dual numbers
 * BBP Type Formula
 * Brent-Salamin Formula
-* Composite Simpson & Double Simpson
+* Composite Simpson  & Double Simpson
 * /dev/random Generator
 * Discrete Fourier Transform
 * Fixed Point Iteration
